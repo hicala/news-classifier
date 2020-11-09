@@ -7,6 +7,8 @@
 
 In this research project we took a political dataset ([news.csv]("/data/news.csv")) from the 2016 US Presidential elections and created a machine learning model using Python to classify the news as REAL or FAKE. We implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. Finally, we run an uncertainty evaluation of the model to obtain the level of accuracy.
 
+![cvs News(images/cvs.png)
+
 ## Introduction
 
 It is important before getting into the codes declare a set of  terms and defitions. For this project I am interpreting the following terms as follows:
