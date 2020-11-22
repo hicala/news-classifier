@@ -37,7 +37,7 @@ Modeling a classifier of news as "REAL" or  "FAKE"
 
 The dataset we’ll use for this python project- we’ll call it <em>news.csv</em>. 
 
-This dataset has a shape of 7796×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. 
+This dataset has a shape of 7796×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE.
 
 Import all the needed Libraries
 
